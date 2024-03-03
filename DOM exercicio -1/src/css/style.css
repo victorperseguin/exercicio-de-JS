@@ -1,0 +1,22 @@
+.conteiner {
+  display:grid;
+  justify-content: center;
+  align-items: center;
+
+}
+.quadrado {
+  width: 100px;
+  height: 100px;
+}
+
+.azul {
+  background-color: blue;
+}
+
+.vermelho {
+  background-color: red;
+}
+
+.amarelo {
+  background-color: yellow;
+}

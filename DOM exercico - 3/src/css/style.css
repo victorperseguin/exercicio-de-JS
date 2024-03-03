@@ -1,0 +1,16 @@
+.conteiner {
+  display: flex;
+  justify-content: center;
+}
+.quadrado {
+  width: 100px;
+  height: 100px;
+}
+
+.preto {
+  background-color: black;
+}
+
+.azul {
+  background-color: blue;
+}
